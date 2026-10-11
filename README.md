@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi I'm Lina
 
-<!--
-**Sunlight222/Sunlight222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer engineering student at the Technion (7th semester), interested in hardware design, verification and low-level programming.
 
-Here are some ideas to get you started:
+## What I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** C++, C, Python, x86-64 assembly
+- **Tools:** Git
+- **Also:** online tutoring
+
+## My projects
+
+The descriptions of my projects, and exactly which part I wrote in each, are in a repo called
+**[university-projects-overview](https://github.com/Sunlight222/university-projects-overview)**.
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/lina-nweisry-6386b9225)
