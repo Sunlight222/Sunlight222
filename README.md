@@ -1,4 +1,4 @@
-# Hi I'm Lina
+# Hey There!
 
 Computer engineering student at the Technion (7th semester), interested in hardware design, verification and low-level programming.
 
